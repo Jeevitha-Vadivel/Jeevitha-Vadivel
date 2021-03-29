@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeevitha-Vadivel.
 - 👀 I’m interested in Data science (Bioinformatics)
 - 🌱 I’m currently doing PG course in Data analytics & Management in Bioinformatics
-- 📫 How to reach me ...jeevithav2016@gmail.com
+-     Learning new data analytical skills and tools.
 -
 
 
